@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="net.lucode.hackware.magicindicator.test" >
+4
+5    <uses-sdk
+5-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:5:5-74
+6        android:minSdkVersion="23"
+6-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:5:15-41
+7        android:targetSdkVersion="25" />
+7-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:11:5-15:89
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:13:22-53
+13        android:label="Tests for net.lucode.hackware.magicindicator.test"
+13-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:15:22-87
+14        android:targetPackage="net.lucode.hackware.magicindicator.test" />
+14-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:12:22-85
+15
+16    <application
+16-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:7:5-9:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] /Users/Keung/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true" >
+18-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:7:18-43
+19        <uses-library android:name="android.test.runner" />
+19-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:8:9-60
+19-->/Users/Keung/StudioProjects/HuobiAssetPager/magicindicator/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2048223480058477920.xml:8:23-57
+20    </application>
+21
+22</manifest>
